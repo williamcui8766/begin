@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             int i = 0;
 
+
             Console.WriteLine("i={0}",i.ToString());
             Console.ReadKey();
         }
